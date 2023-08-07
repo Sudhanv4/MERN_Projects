@@ -77,7 +77,7 @@ const HomePage = () => {
 
   return (
     <>
-    <div className=" bg-[url('C:/Users/sudhanva_habib/Downloads/Dummy-MERN-App-master/Dummy-MERN-App-master/frontend/public/photo-1495422964407-28c01bf82b0d.jpg')] bg-cover bg-no-repeat">
+    <div className=" bg-[url('https://res.cloudinary.com/dzqjofzf9/image/upload/v1691388804/photo-1495422964407-28c01bf82b0d_qnnkbs.jpg')] bg-cover bg-no-repeat">
 
     
       <section className=" container px-4 mx-auto py-4 ">
